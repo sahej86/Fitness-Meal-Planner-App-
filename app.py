@@ -99,7 +99,7 @@ def edit_meal(meal_id):
         save_meals(meals)
         return redirect(url_for("view_meal", meal_id=meal_id))
 
-    return render_template("edit.html", meal=meal)
+    return render_template("edit_meal.html", meal=meal)
 
 
 @app.route("/delete/<int:meal_id>", methods=["POST"])
