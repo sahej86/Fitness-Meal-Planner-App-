@@ -25,8 +25,7 @@ A simple yet expandable web application to help users manage meals, calculate nu
 
 ## 🔮 Planned Future Features
 
-🧠 Auto-calculation of nutrients via external API (based on food + quantity)  
-🔐 User authentication and login system  
+🧠 Auto-calculation of nutrients via external API (based on food + quantity)   
 🧾 Switch from CSV to a real-time database (SQLite/PostgreSQL)  
 📱 Smartwatch integration for sleep tracking, steps, oxygen levels  
 🧠 Autocomplete search for food names  
